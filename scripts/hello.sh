@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-echo "hello from connect-test"
+echo "hello from NexusBlack"
