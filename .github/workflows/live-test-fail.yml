@@ -1,0 +1,8 @@
+name: Live test failure
+on: pull_request
+permissions: {}
+jobs:
+  fail:
+    runs-on: ubuntu-latest
+    steps:
+      - run: exit 1
